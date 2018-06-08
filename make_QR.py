@@ -6,7 +6,7 @@ import pygooglechart
 
 #1Nem = 1000000mosaic 
 
-address = "NDOZFGZTFYVSKHGCSPZEFKM2WFQSXM66M5MCHYNP"
+address = "your nem wallet address"
 mosaic = 1000000
 send_amount = 100 * mosaic 
 message = "test"
